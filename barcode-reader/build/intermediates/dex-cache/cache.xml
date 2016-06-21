@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_122f6536d318f7cef8fd248102c622a108315ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c81491619e46514e35323192f1d146fafbf0d5ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_875c921871e90c0391daa1aa17043c9c6b5190fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_c9540f3b1a9a88afb52bfec4d2a3d7d2ee697b29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_1ad2421be56963c9e465af903f9969c6baa7f9ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_f81c9162e3d0a01345cdb214015af4797b9c484a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_c0e2ee9fc957e6f844a6eef09989df0ea450d946.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_286dd390e948aba87e7bfd2ea26c31052ca04e56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_c16acbe63d0b942b286545831cb5c050e61ddce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_e496e404dd2ace1c3fe101858004dacfdf864ce5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_79daa0948f278e3f07937a99ef02c7febf4d279d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_08d8fdc8c95b5ded17c37df3885b3abef0f7c168.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_f7f8a6a7f0f7d69d44c070a1cb2ab74d8208230b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_b60e06e1c2ca43b574f01c11c5e116a33b14d7e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_7f0db0855e8c4f35f6ea3899230c8753449407b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_4efbb464597a81e0c10695079a0f85dfe8c0e1ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_b30ea2ff5d284a8ac05fc7de72c48a259307119e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_4c4b9afb767dc84ab2ac8ec771257279b88b242a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_8d9695ab45e08e464d4f4564eac5ac615ccdeb7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_213808d8b7c25c9b3eb1109541c706f5b4283af0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_3b0d213681b666a32e0adc0cba4e77cb04ee7f38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_3473fd8aa1fbaa762f6999f73c1e7a1ab7984269.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_dfd8a554968e0c644002f65be6143f0d73c070f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_295ea8b6268e382ea1d61bf7cf1d15448a050391.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_46dead0fc14267530587f2ce8c5d9c7b23af2a84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_7515fcac463ae76065b84d854fa3ab48a257b679.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_c1173536f3f5e6284a71ce4a23226189a347d6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_3a66d8c276a16f15c5c015f16713b1047604f78b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_b8cd5a24ca0fd9eb30d288e3e6a841ac44105e97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_36f84040f0e93aba4db3a1af35244b6f3cf4f530.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_79b022881347b3d469483e7401d18bd643d852dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f4f719ed0f9088862de5e92878786ba9b8de3070">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d485fe0d9a3aaf95206f8bc7255bd7b5f08694eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_f82b0806cfaf9e9eaeb083459f2602cb4f4cf336.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_3f49288c337fd9dd3c094f087060239b6ed2c6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_fe021c25c96143d91f5b9d4ab5ea0564ee5465e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_79710fcc16763e0dfc32c16a925d27055dac37e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_992f85ceb0bf53b077348e7e9619775a6a387843.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_70115fc66d2acd375573fb76f0db5eec43dbdd96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_793bfd3e23c56244f2edb760f98a78c6d1186270.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_475f5b59d5ee671bf2bb0f686e8ce423bd6b9c36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_f4cb905ebab4578eac55915b230246ecbb481584.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_c3bf5985edb5e5d9bfb8c6cf20faf5283156e386.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_601cd3b607e29264dc5b45260470c43a201647a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_a142aedf276025ba3258a5d9400f6f6e53843cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_364248e99f6476c4c3e383b3c23b27a27405ceb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_f44bcfa8a9b47feda9f99cee58ca2f5cc991d17b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c0642a8748ea2ad41386cc5303f8c19e19c685fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_d562ff124b642cc515b070065624cb9283c5d000.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_36f990db041731d7dd73e5ba6f23c6bb53cc7504.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d8f5dc95d9703904733affdc4fe0e01472967ca">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\instant-run_a0361d8194fad8bae1484f6b368e894d082de0a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_776516bed5732882182abc5b40d95bebd6bd25af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_7ed9b74d0bcf08f1caea267a6e512ed8c428e629.jar" />
+    </item>
+
+</items>
