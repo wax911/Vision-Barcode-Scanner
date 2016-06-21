@@ -3,10 +3,10 @@ New repo for modified project
 
 #Modifications
 
-What I added:
 
-Full Screen Size Display &
-Auto Capture Barcode on Detection
+1. Full Screen Size Display
+
+2. Auto Capture Barcode on Detection
 
 #Screen Shots
 
