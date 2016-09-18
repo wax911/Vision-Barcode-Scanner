@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-hy\\values-hy.xml",
+        "outputFile": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-hy\\values-hy.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 528
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 725
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 861
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 1000
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 1222
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 1445
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 1583
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1750
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1875
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 2054
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 2174
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 2316
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 2524
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 2692
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 2860
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 2992
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 3164
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 3287
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 3546
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 3817
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 3948
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 4058
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 4257
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 4395
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 4616
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 4756
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 4952
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 5047
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 5144
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 5255
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 5366
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 5463
                 },
                 "from": {
-                    "file": "C:\\Users\\Maxwell\\AndroidstudioProjects\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

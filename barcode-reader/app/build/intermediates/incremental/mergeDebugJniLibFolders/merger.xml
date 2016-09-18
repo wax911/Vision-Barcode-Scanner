@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Maxwell\AndroidstudioProjects\barcode-reader\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Maxwell\Documents\GitHub\Vision-Barcode-Scanner\barcode-reader\app\src\debug\jniLibs"/></dataSet></merger>
