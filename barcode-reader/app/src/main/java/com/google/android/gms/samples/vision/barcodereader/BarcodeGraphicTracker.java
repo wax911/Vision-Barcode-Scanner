@@ -30,11 +30,15 @@ class BarcodeGraphicTracker extends Tracker<Barcode> {
 
     private GraphicOverlay<BarcodeGraphic> mOverlay;
     private BarcodeGraphic mGraphic;
-    public static BarcodeDetectorListener mBarcodeDetectorListener;
+    private BarcodeDetectorListener mBarcodeDetectorListener;
 
     BarcodeGraphicTracker(GraphicOverlay<BarcodeGraphic> overlay, BarcodeGraphic graphic) {
         mOverlay = overlay;
         mGraphic = graphic;
+    }
+
+    public void setDetectorListener(BarcodeDetectorListener mBarcodeDetectorListener) {
+        this.mBarcodeDetectorListener = mBarcodeDetectorListener;
     }
 
     /**
@@ -43,10 +47,8 @@ class BarcodeGraphicTracker extends Tracker<Barcode> {
     @Override
     public void onNewItem(int id, Barcode item) {
         mGraphic.setId(id);
-
         if(mBarcodeDetectorListener == null) return;
         mBarcodeDetectorListener.onObjectDetected(item);
-        mBarcodeDetectorListener = null;
     }
 
     /**
@@ -77,11 +79,16 @@ class BarcodeGraphicTracker extends Tracker<Barcode> {
         mOverlay.remove(mGraphic);
     }
 
-    /*
-    * Call back that is fired when a new barcode is detected
-    * */
-    public interface BarcodeDetectorListener{
-        //event call back
+    interface BarcodeDetectorListener{
+        /**
+         * Multiple events can be fired depending the number of barcodes identified,
+         * So you may want to build a Map<K,V> to add the detected objects and finish the
+         * activity when the user is satisfied. @see {@link java.util.Map}
+         * <br/>
+         *
+         * @param data Barcode parsed object will contain different kinds of data depending
+         *             on the scanned barcode content.
+         */
         void onObjectDetected(Barcode data);
     }
 }

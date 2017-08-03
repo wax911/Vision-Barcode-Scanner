@@ -23,7 +23,9 @@ import android.view.View;
 import com.google.android.gms.vision.CameraSource;
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
+import java.util.Vector;
 
 /**
  * A view which renders a series of custom graphics to be overlayed on top of an associated preview
@@ -161,13 +163,13 @@ public class GraphicOverlay<T extends GraphicOverlay.Graphic> extends View {
     }
 
     /**
-     * Returns the first (oldest) graphic added.  This is used
-     * to get the barcode that was detected first.
-     * @return graphic containing the barcode, or null if no barcodes are detected.
+     * Returns a copy (as a list) of the set of all active graphics.
+     * @return list of all active graphics.
      */
-    public T getFirstGraphic() {
+    public List<T> getGraphics() {
         synchronized (mLock) {
-            return mFirstGraphic;
+            //noinspection unchecked
+            return new Vector(mGraphics);
         }
     }
 
@@ -201,5 +203,19 @@ public class GraphicOverlay<T extends GraphicOverlay.Graphic> extends View {
                 graphic.draw(canvas);
             }
         }
+    }
+
+    /**
+     * Returns the horizontal scale factor.
+     */
+    public float getWidthScaleFactor() {
+        return mWidthScaleFactor;
+    }
+
+    /**
+     * Returns the vertical scale factor.
+     */
+    public float getHeightScaleFactor() {
+        return mHeightScaleFactor;
     }
 }
