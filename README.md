@@ -1,4 +1,4 @@
-# Vision API: Barcode Scanner
+# Vision API: Barcode Scanner &nbsp; [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3769f68c9134e9db6887e6fa910705c)](https://www.codacy.com/app/wax911/Vision-Barcode-Scanner?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wax911/Vision-Barcode-Scanner&amp;utm_campaign=Badge_Grade)
 
 __[Why this project exists?](https://stackoverflow.com/questions/33371331/how-to-get-detected-barcode-qr-automatically/33450716#33450716)__
 
